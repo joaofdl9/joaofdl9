@@ -1,36 +1,39 @@
 # João Lima
 
-**Analista de BI** atuando em Analytics e Engenharia de Dados na área de Controladoria.
+**BI Analyst working in Analytics and Data Engineering in the Controllership area.
 
-Especializado em construir pipelines de dados, dashboards analíticos e modernização de infraestrutura de dados.
+Specialized in building data pipelines, analytical dashboards, and modernizing data infrastructure.
 
-## 🔧 Stack Técnica
+## 🔧 Stack
 
-**Engenharia de Dados**
+**Data Engineering**
 - Python, SQL
-- Apache Airflow (orquestração)
-- dbt (transformação)
-- AWS Redshift
+- Apache Airflow (orchestration)
+- dbt (transformation)
+- AWS (Redshift, S3, IAM)
 - Pipelines ETL/ELT
+- Data Quality & Observability
+- Docker
 
 **Business Intelligence**
-- Power BI
-- SQL Server
-- Modelagem dimensional
-- Data Quality & Observability
+- Power BI (DAX, Power Query, Service)
+- SQL Analytics
+- Dimensional Modeling
+- Financial Analysis (P&L, Cash Flow, KPIs, ROE/ROA, EBITDA)
+- Data Storytelling & Figma
 
-## 💼 Projetos
+## 💼 Projects
 
-- **Modernização de Stack**: Migração de 80+ tabelas de sistemas legados para arquitetura moderna (Airflow + dbt + Redshift)
-- **Pipelines Near Real-Time**: Processamento a cada 5 minutos com validação automática de qualidade
-- **Dashboard Industrial**: Análise que gerou redução de custos industriais
-- **Dashboard de Orçamento**: BI para planejamento e controle orçamentário
-- **Data Observability**: Sistema de monitoramento e alertas para integridade de dados
+- **Stack Modernization**: Migration of 80+ tables from legacy systems to a modern architecture (Airflow + dbt + Redshift)
+- **Near Real-Time Pipelines**: Processing every 5 minutes with automatic data quality validation
+- **Industrial Dashboard**: Analysis that led to industrial cost reduction
+- **Budget Dashboard**: BI for budget planning and control
+- **Data Observability**: Monitoring and alert system for data integrity
 
-## 🎓 Formação
+## 🎓 Education
 
-- **Pós-graduação em Engenharia de Dados** - Data Science Academy (11/2025 - 10/2026)
-- **Bacharelado em Economia** - USP Ribeirão Preto (concluído 12/2024)
+- **Postgraduate in Data Engineering - Data Science Academy (11/2025 - 10/2026)
+- **Bachelor’s in Economics - USP Ribeirão Preto (completed 12/2024)
 
 ## 📫 Contato
 
