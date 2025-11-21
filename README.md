@@ -32,8 +32,8 @@ Specialized in building data pipelines, analytical dashboards, and modernizing d
 
 ## 🎓 Education
 
-- **Postgraduate in Data Engineering - Data Science Academy (11/2025 - 10/2026)
-- **Bachelor’s in Economics - USP Ribeirão Preto (completed 12/2024)
+- **Postgraduate in Data Engineering** - Data Science Academy (11/2025 - 10/2026)
+- **Bachelor’s in Economics** - USP Ribeirão Preto (completed 12/2024)
 
 ## 📫 Contato
 
