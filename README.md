@@ -1,6 +1,6 @@
 # João Lima
 
-**Analista de BI** atuando em Business Intelligence e Engenharia de Dados na área de Controladoria.
+**Analista de BI** atuando em Analytics e Engenharia de Dados na área de Controladoria.
 
 Especializado em construir pipelines de dados, dashboards analíticos e modernização de infraestrutura de dados.
 
