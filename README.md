@@ -12,11 +12,12 @@ Specialized in building data pipelines, analytical dashboards, and modernizing d
 - dbt (transformation)
 - AWS (Redshift, S3, IAM)
 - Pipelines ETL/ELT
+- Medallion Architecture
 - Data Quality & Observability
 - Docker
 
 **Business Intelligence**
-- Power BI (DAX, Power Query, Service)
+- Power BI (DAX, Power Query, Desktop & Service)
 - SQL Analytics
 - Dimensional Modeling
 - Financial Analysis (P&L, Cash Flow, KPIs, ROE/ROA, EBITDA)
@@ -35,6 +36,6 @@ Specialized in building data pipelines, analytical dashboards, and modernizing d
 - **Postgraduate in Data Engineering** - Data Science Academy (11/2025 - 10/2026)
 - **Bachelor’s in Economics** - USP Ribeirão Preto (completed 12/2024)
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofdl) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaofranciscodl@gmail.com)
