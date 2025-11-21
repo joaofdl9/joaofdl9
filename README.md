@@ -1,13 +1,13 @@
 # João Lima
 
-**Analytics Engineer** especializado em pipelines de dados e modernização de infraestrutura analítica.
+Analista de BI atuando em Business Intelligence e Engenharia de Dados.
 
-## 🛠️ Stack
+Desenvolvimento de pipelines ETL, dashboards analíticos e modernização de stack de dados.
 
-**Engenharia de Dados:** Python • SQL • Apache Airflow • dbt • AWS Redshift
+## Stack
 
-**Analytics:** Power BI • SQL Server • Data Modeling
+Python • SQL • Apache Airflow • dbt • AWS Redshift • Power BI • SQL Server
 
-## 📫 Contato
+## Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-leite9) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joao_f@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofdl) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaofranciscodl@gmail.com)
