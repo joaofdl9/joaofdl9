@@ -19,7 +19,7 @@ Specialized in building data pipelines, analytical dashboards, and modernizing d
 **Data Analytics**
 - Power BI (DAX, Power Query, Desktop & Service)
 - SQL Analytics
-- Dimensional Modeling
+- Star Schema
 - Financial Analysis (P&L, Cash Flow, KPIs, ROE/ROA, EBITDA)
 - Data Storytelling & Figma
 
