@@ -12,7 +12,7 @@ Specialized in building data pipelines, analytical dashboards, and modernizing d
 - dbt (transformation)
 - AWS (Redshift, S3, IAM)
 - Pipelines ETL/ELT
-- Medallion Architecture
+- Kimball Dimensional Modeling Architecture
 - Data Quality & Observability
 - Docker
 
