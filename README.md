@@ -1,6 +1,6 @@
 # João Lima
 
-**BI Analyst** working in Analytics and Data Engineering in the Controllership area.
+**Data Analyst** working in Data Analytics and Data Engineering in the Controllership area.
 
 Specialized in building data pipelines, analytical dashboards, and modernizing data infrastructure.
 
@@ -16,7 +16,7 @@ Specialized in building data pipelines, analytical dashboards, and modernizing d
 - Data Quality & Observability
 - Docker
 
-**Business Intelligence**
+**Data Analytics**
 - Power BI (DAX, Power Query, Desktop & Service)
 - SQL Analytics
 - Dimensional Modeling
