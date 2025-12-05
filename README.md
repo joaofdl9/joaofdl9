@@ -31,6 +31,10 @@ Specialized in building data pipelines, analytical dashboards, and modernizing d
 - **Budget Dashboard**: BI for budget planning and control
 - **Data Observability**: Monitoring and alert system for data integrity
 
+## 🏅 Certifications
+- **GitDagAutoOrg Certification**  
+  [View Certificate](https://www.credly.com/badges/a046baf3-4757-42e2-9009-0954875fe8e3/linked_in?t=t6tdcg)
+
 ## 🎓 Education
 
 - **Postgraduate in Data Engineering** - Data Science Academy (11/2025 - 10/2026)
