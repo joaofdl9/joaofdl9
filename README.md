@@ -32,7 +32,7 @@ Specialized in building data pipelines, analytical dashboards, and modernizing d
 - **Data Observability**: Monitoring and alert system for data integrity
 
 ## 🏅 Certifications
-- **GitDagAutoOrg Certification**  
+- **Astronomer Certification DAG Authoring for Apache Airflow 3**  
   [View Certificate](https://www.credly.com/badges/a046baf3-4757-42e2-9009-0954875fe8e3/linked_in?t=t6tdcg)
 
 ## 🎓 Education
